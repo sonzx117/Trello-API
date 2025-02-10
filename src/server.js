@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
   // Test Absolute import mapOrder
   console.log(mapOrder(
     [ { id: 'id-1', name: 'One' },
-      { id: 'id-2', name: 'Two' },
+      { id: 'id-2', name: 'Two' }, 
       { id: 'id-3', name: 'Three' },
       { id: 'id-4', name: 'Four' },
       { id: 'id-5', name: 'Five' } ],
