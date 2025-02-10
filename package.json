@@ -1,0 +1,12 @@
+{
+  "name": "Trello-API",
+  "version": "1.0.0",
+  "description": "sondev",
+  "main": "src/server.js",
+  "repository": "https://github.com/sonzx117/Trello-API.git",
+  "author": "sondev",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
